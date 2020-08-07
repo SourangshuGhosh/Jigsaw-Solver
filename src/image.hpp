@@ -1,3 +1,7 @@
+// Author: Sourangshu Ghosh
+// License: MIT License
+
+
 #ifndef IMAGE_HPP
 #define IMAGE_HPP
 #include <iostream>
