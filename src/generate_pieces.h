@@ -1,3 +1,6 @@
+// Author: Sourangshu Ghosh
+// License: MIT License
+
 #ifndef GENERATE_PIECES_H
 #define GENERATE_PIECES_H
 
