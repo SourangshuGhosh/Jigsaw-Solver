@@ -1,3 +1,5 @@
+// Author: Sourangshu Ghosh
+// License: MIT License
 #include "generate_pieces.h"
 
 
