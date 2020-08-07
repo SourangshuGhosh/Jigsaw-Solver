@@ -1,5 +1,6 @@
 #include "MST_solver.h"
-
+// Author: Sourangshu Ghosh
+// License: MIT License
 void MST::fill_greedy(vector<Block> &ans,bool *used)
 {
 	int CC[X];
