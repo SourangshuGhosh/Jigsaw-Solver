@@ -1,3 +1,7 @@
+// Author: Sourangshu Ghosh
+// License: MIT License
+
+
 #ifndef MST_SOLVER_H
 #define MST_SOLVER_H
 
