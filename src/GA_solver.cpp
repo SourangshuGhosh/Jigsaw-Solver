@@ -1,5 +1,7 @@
 #include "GA_solver.h"
 
+// Author: Sourangshu Ghosh
+// License: MIT License
 int GA::findbuddy(vector<Block> &c, bool * used, int k)
 {
   int a=k/N,bb=k%N;
