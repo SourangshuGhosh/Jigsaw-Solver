@@ -1,3 +1,6 @@
+// Author: Sourangshu Ghosh
+// License: MIT License
+
 #ifndef GA_SOLVER_H
 #define GA_SOLVER_H
 
