@@ -1,3 +1,7 @@
+// Author: Sourangshu Ghosh
+// License: MIT License
+
+
 #include <iostream>
 #include <time.h>
 #include "image.hpp"
